@@ -5,21 +5,13 @@
 //  Created by May Bader Alotaibi on 25/04/1446 AH.
 //
 
-////
-////  UpdateView.swift
-////  Learning
-////
-////  Created by May Bader Alotaibi on 25/04/1446 AH.
-////
+
 import SwiftUI
 
 struct UpdateView: View {
     @StateObject var viewModel : UpdateViewModel
 
-//    init() {
-//        UINavigationBar.appearance().largeTitleTextAttributes = [.foregroundColor: UIColor.white]
-//        UINavigationBar.appearance().titleTextAttributes = [.foregroundColor: UIColor.white]
-//    }
+
 
     var body: some View {
         NavigationStack {
