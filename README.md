@@ -1,7 +1,7 @@
 
 ![Thumbnail@1x](https://github.com/user-attachments/assets/af4dd628-7875-4972-a563-4eb1ae183e4b)
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 **LearningChallenge** is a simple and clean app for tracking learning progress. Users only need to enter their learning goal and the duration of their journey, and they can then monitor it via a calendar. The app includes additional features like **streak** and **freeze**. 
