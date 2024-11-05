@@ -32,6 +32,7 @@ By using MVVM, this project promotes a reactive UI experience, where changes in 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Data Binding:** Allows automatic UI updates in response to data changes.
+
 **Separation of Concerns:** The ViewModel isolates the View from direct data access, making the code modular and easier to maintain.
 Getting Started
 
