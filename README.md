@@ -39,9 +39,9 @@ Getting Started
 ****Clone the repository****
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1- Clone the repository.
-2- Follow the setup instructions in the /docs directory.
-3- Run the project on your preferred simulator or device.
+- Clone the repository.
+- Follow the setup instructions in the /docs directory.
+- Run the project on your preferred simulator or device.
 
 
 
