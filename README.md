@@ -28,7 +28,19 @@ The application is designed to follow the MVVM pattern to manage and organize co
 By using MVVM, this project promotes a reactive UI experience, where changes in the data layer automatically update the user interface.
 
 
+****Key Features****
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**Data Binding:** Allows automatic UI updates in response to data changes.
+**Separation of Concerns:** The ViewModel isolates the View from direct data access, making the code modular and easier to maintain.
+Getting Started
+
+****Clone the repository****
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1- Clone the repository.
+2- Follow the setup instructions in the /docs directory.
+3- Run the project on your preferred simulator or device.
 
 
 
