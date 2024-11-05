@@ -21,7 +21,9 @@ This project demonstrates an implementation of the **Model-View-ViewModel (MVVM)
 The application is designed to follow the MVVM pattern to manage and organize code effectively:
 
 **Model:** Contains the data and business logic, responsible for handling and processing data (e.g., fetching from APIs or local databases).
+
 **View:** The user interface layer that displays information to the user and reflects changes from the ViewModel.
+
 **ViewModel:** Acts as the bridge between the Model and the View, formatting data from the Model for display and handling user interactions.
 By using MVVM, this project promotes a reactive UI experience, where changes in the data layer automatically update the user interface.
 
